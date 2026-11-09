@@ -1,0 +1,5 @@
+.forge/
+brand/_explore/
+**/fonts/*.ttf
+__pycache__/
+*.pyc

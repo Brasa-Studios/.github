@@ -236,7 +236,7 @@ def build_banner() -> None:
 # ------------------------------------------------------------------------------- typing
 PHRASES = [
     "Jogos no Roblox feitos com fogo",
-    "Terror, mistério e aventura",
+    "Do terror à festa, sempre com os amigos",
     "Estúdio indie brasileiro",
     "Nosso primeiro jogo está chegando...",
 ]

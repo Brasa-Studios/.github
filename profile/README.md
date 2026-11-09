@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.svg" alt="Brasa Studios: estúdio indie brasileiro de jogos no Roblox" width="100%">
 
-<img src="./assets/typing.svg" alt="Frases que se digitam sozinhas: Jogos no Roblox feitos com fogo, Terror, mistério e aventura, Estúdio indie brasileiro, Nosso primeiro jogo está chegando" width="720">
+<img src="./assets/typing.svg" alt="Frases que se digitam sozinhas: Jogos no Roblox feitos com fogo, Do terror à festa, sempre com os amigos, Estúdio indie brasileiro, Nosso primeiro jogo está chegando" width="720">
 
 <p>
   <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" alt="Badge: Roblox">
@@ -14,7 +14,7 @@
 
 ## 🔥 Quem somos
 
-Somos dois amigos que fundaram um estúdio para criar jogos no Roblox com cara própria. Queremos experiências que dão frio na barriga e ficam melhores quando você joga com os amigos.
+Somos dois amigos que fundaram um estúdio para criar jogos no Roblox com cara própria. Cada jogo tem o seu gênero, do terror à festa, e todos ficam melhores quando você joga com os amigos. Ao longo do ano, temporadas trazem temas novos para os jogos.
 
 <img src="./assets/divider.svg" alt="Divisória" width="100%">
 
